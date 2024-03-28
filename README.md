@@ -1,4 +1,4 @@
-# Stock & Crypto Market Data Pipeline
+# Stock & Crypto Market Data Pipeline (In Progress)
 Building a pipeline using Alpaca's API market data to process historical crypto/stock data in an ELT pattern. 
 
 The aim of this project is to write a pipeline that processes cryptocurrency and stock market data using Alpaca's API. 
